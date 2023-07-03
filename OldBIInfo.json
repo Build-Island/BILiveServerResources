@@ -1,0 +1,32 @@
+{
+	"JoinSplashInfo": {
+		"CanClose": true,
+		"Subtitle": "BI Remake Preview",
+		"Title": "Step into the new Build Island",
+		"Buttons": [
+			{
+				"Function": {
+					"CloseOnClick": false,
+					"Type": "Teleport",
+					"Args": {
+						"PlaceId": 0
+					}
+				},
+				"Text": "Try It Out",
+				"Type": "Primary"
+			}
+		],
+		"HeaderImage": "rbxassetid://13074556686",
+		"Content": {
+			"Sections": [
+				{
+					"RichText": true,
+					"Title": "Recent Updates:",
+					"Body": "• All your files are automatically transferred.<br/>• We are working on wiring"
+				}
+			],
+			"Discord": "no discord yet",
+			"Body": "The new Build Island features a more stable and reliable experience, most notably with the saving system. We are working on improving it and feedback would be greatly appreciated."
+		}
+	}
+}
