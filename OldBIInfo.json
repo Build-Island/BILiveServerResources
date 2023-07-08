@@ -21,8 +21,13 @@
 			"Sections": [
 				{
 					"RichText": true,
-					"Title": "Recent Updates:",
+					"Title": "Recent Updates for BI2:",
 					"Body": "<s>• All your files are automatically transferred.</s><b> (IN PROGRESS)</b><br/>• We are working on wiring"
+				}
+				{
+					"RichText": true,
+					"Title": "For those of yall who stayed:",
+					"Body": "Join the group to gain access to more adonis commands such as <b>;FlySpeed</b> and <b>;NoClip</b>"
 				}
 			],
 			"Discord": "discord.gg/ak678hemQk",
