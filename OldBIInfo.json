@@ -12,7 +12,7 @@
 						"PlaceId": 11688957772
 					}
 				},
-				"Text": "Try It Out",
+				"Text": "Join BI2",
 				"Type": "Primary"
 			}
 		],
@@ -22,7 +22,7 @@
 				{
 					"RichText": true,
 					"Title": "Recent Updates for BI2:",
-					"Body": "<s>• All your files are automatically transferred.</s><b> (IN PROGRESS)</b><br/>• We are working on wiring"
+					"Body": "• All your files are automatically transferred.<b> (SOMETIMES?)</b><br/>• We are working on wiring<br/>• Streaming Enabled to reduce lag<br/>• Working on BTools V2"
 				},
 				{
 					"RichText": true,
