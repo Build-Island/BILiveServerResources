@@ -1,18 +1,18 @@
 {
 	"JoinSplashInfo": {
 		"CanClose": true,
-		"Subtitle": "BI Remake Preview",
-		"Title": "Step into the new Build Island",
+		"Subtitle": "Phase 1: New File Format",
+		"Title": "Test out phase 1 of saving V2!",
 		"Buttons": [
 			{
 				"Function": {
 					"CloseOnClick": false,
 					"Type": "Teleport",
 					"Args": {
-						"PlaceId": 11688957772
+						"PlaceId": 10335683055
 					}
 				},
-				"Text": "Join BI2",
+				"Text": "Try it out!",
 				"Type": "Primary"
 			}
 		],
@@ -21,12 +21,22 @@
 			"Sections": [
 				{
 					"RichText": true,
-					"Title": "Recent Updates for BI:",
-					"Body": "• Spawn changess</br>• New compressor for savings system"
+					"Title": "Phase 1: New File Format (NOW IN TESTING)",
+					"Body": "• Save 10k parts in less than 5 seconds<br/>• Fit over 200k parts in a file without reaching size limit<br/>• Export to / Import from RBXM (Seperate studio plugin, coming soon)<br/>We are aware of issues with some wiring parts and are working on this!"
+				},
+				{
+					"RichText": true,
+					"Title": "Phase 2: Reimagined UI (IN THE WORKS)",
+					"Body": "• Modern, clean UI in dark and light themes<br/>• Adaptability for mobile devices"
+				},
+				{
+					"RichText": true,
+					"Title": "Phase 3: Collaborative Files (COMING SOON)",
+					"Body": "• Have files shared between users, or groups<br/>• Allow for defining permissions for certain areas"
 				}
 			],
 			"Discord": "discord.gg/ak678hemQk",
-			"Body": "The new Build Island features a more stable and reliable experience, most notably with the saving system. We are working on improving it and feedback would be greatly appreciated."
+			"Body": "We are exited to announce that phase one of saving v2 has been released for public testing."
 		}
 	}
 }
