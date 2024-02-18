@@ -1,32 +1,3 @@
 {
-	"JoinSplashInfo": {
-		"CanClose": true,
-		"Subtitle": "Phase 1: New File Format",
-		"Title": "Test out phase 1 of saving V2!",
-		"Buttons": [
-			{
-				"Function": {
-					"CloseOnClick": false,
-					"Type": "Teleport",
-					"Args": {
-						"PlaceId": 10335683055
-					}
-				},
-				"Text": "Try it out!",
-				"Type": "Primary"
-			}
-		],
-		"HeaderImage": "rbxassetid://13074556686",
-		"Content": {
-			"Sections": [
-				{
-					"RichText": true,
-					"Title": "Phase 1: New File Format (NOW IN TESTING)",
-					"Body": "• Save 10k parts in less than 5 seconds<br/>• Fit over 200k parts in a file without reaching size limit<br/>• Export to / Import from RBXM (Seperate studio plugin, coming soon)<br/>We are aware of issues with some wiring parts and are working on this!"
-				}
-			],
-			"Discord": "discord.gg/ak678hemQk",
-			"Body": "We are exited to announce that phase one of saving v2 has been released for public testing."
-		}
-	}
+	"JoinSplashInfo": null
 }
