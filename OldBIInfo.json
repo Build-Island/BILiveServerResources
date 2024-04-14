@@ -1,3 +1,19 @@
 {
-	"JoinSplashInfo": null
+	"JoinSplashInfo": {
+		"CanClose": true,
+		"Title": "Hi",
+		"Buttons": [],
+		"HeaderImage": "rbxassetid://13074556686",
+		"Content": {
+			"Body": "Join the buildverse group for admin commands"
+			"Sections": [
+				{
+					"RichText": true,
+					"Title": "Join our purple app server:",
+					"Body": "f6MJXppNbj"
+				}
+			],
+			"Discord": "(new invite, above is old) discord.gg/ak678hemQk",
+		}
+	}
 }
