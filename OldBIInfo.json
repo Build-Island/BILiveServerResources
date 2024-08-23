@@ -1,11 +1,11 @@
 {
 	"JoinSplashInfo": {
 		"CanClose": true,
-		"Title": "Hi",
+		"Title": "Welcome",
 		"Buttons": [],
 		"HeaderImage": "rbxassetid://13074556686",
 		"Content": {
-			"Body": "Join the buildverse group for admin commands"
+			"Body": "Join the buildverse group for admin commands. You can find the group link in our game description!",
 			"Sections": [
 				{
 					"RichText": true,
@@ -13,7 +13,7 @@
 					"Body": "f6MJXppNbj"
 				}
 			],
-			"Discord": "(new invite, above is old) discord.gg/ak678hemQk",
+			"Discord": "(new invite, above is old) discord.gg/ak678hemQk"
 		}
 	}
 }
