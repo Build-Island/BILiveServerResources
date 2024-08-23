@@ -2,7 +2,15 @@
 	"JoinSplashInfo": {
 		"CanClose": true,
 		"Title": "Welcome",
-		"Buttons": [],
+		"Buttons": [
+			{
+				"Function": {
+					"CloseOnClick": true
+				},
+				"Text": "Dismiss",
+				"Type": "Secondary"
+			}
+		],
 		"HeaderImage": "rbxassetid://13074556686",
 		"Content": {
 			"Body": "Join the buildverse group for admin commands. You can find the group link in our game description!",
