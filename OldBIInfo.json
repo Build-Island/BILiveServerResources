@@ -1,27 +1,3 @@
 {
-	"JoinSplashInfo": {
-		"CanClose": true,
-		"Title": "Welcome",
-		"Buttons": [
-			{
-				"Function": {
-					"CloseOnClick": true
-				},
-				"Text": "Dismiss",
-				"Type": "Secondary"
-			}
-		],
-		"HeaderImage": "rbxassetid://13074556686",
-		"Content": {
-			"Body": "Join the buildverse group for access to :cmds vip admin and increased resize tool limit. You can find the group link in our game description!",
-			"Sections": [
-				{
-					"RichText": true,
-					"Title": "Join our 🟪🎮 server:",
-					"Body": "invite: f6MJXppNbj"
-				}
-			],
-			"Discord": "(new invite, above is old) discord.gg/ak678hemQk"
-		}
-	}
+	"JoinSplashInfo": null
 }
